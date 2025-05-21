@@ -8,7 +8,7 @@ interface SocialLink {
 }
 
 const socialLinks: SocialLink[] = [
-  { href: "mailto:bhanurama08@gmail.com", icon: "mail", label: "Email" },
+  { href: "mailto:bhanunama08@gmail.com", icon: "mail", label: "Email" },
   { href: "https://www.linkedin.com/in/bhanu-nama-654957281/", icon: "linkedin", label: "LinkedIn" },
   { href: "https://github.com/BhanuNama?tab=repositories", icon: "github", label: "GitHub" },
   { href: "tel:+917993073400", icon: "phone", label: "Phone" }
